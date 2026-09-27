@@ -1,0 +1,14 @@
+# Environment Variables
+.env
+
+# Foundry / Solidity
+contracts/evm-gateway/cache/
+contracts/evm-gateway/out/
+contracts/evm-gateway/broadcast/
+
+# Rust / Stylus WASM
+contracts/wasm-verifier/target/
+**/*.wasm
+
+# Go / macOS / OS files
+.DS_Store
